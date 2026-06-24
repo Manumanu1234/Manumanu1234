@@ -89,24 +89,40 @@ const manu = {
 
 ## Tech Stack
 
-### AI & Generative AI
+<div align="left">
+
+<h3>🤖 AI & Generative AI</h3>
+
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI Tools"/>
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="48" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logoColor=white" alt="AutoGen"/>
-<img src="https://img.shields.io/badge/Agno-000000?style=for-the-badge&logoColor=white" alt="Agno"/>
-<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP"/>
-<img src="https://img.shields.io/badge/A2A-000000?style=for-the-badge&logoColor=white" alt="A2A"/>
-<img src="https://img.shields.io/badge/ACP-000000?style=for-the-badge&logoColor=white" alt="ACP"/>
-<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/ML-000000?style=for-the-badge&logoColor=white" alt="ML"/>
-<img src="https://img.shields.io/badge/DL-000000?style=for-the-badge&logoColor=white" alt="DL"/>
-<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logoColor=white" alt="NLP"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="50" alt="TensorFlow"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="50" alt="PyTorch"/>
+
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white" alt="LangChain"/>
+  
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white" alt="LangGraph"/>
+
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+
+  <img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
+
+  <img src="https://img.shields.io/badge/AGNO-000000?style=for-the-badge&logoColor=white" alt="Agno"/>
+
+  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=white" alt="Groq"/>
+
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP"/>
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/A2A-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ACP-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DL-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge" />
+</p>
+
+</div>
 
 ### Programming Languages
 <p>
