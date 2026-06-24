@@ -24,18 +24,19 @@ const manu = {
   role: "AI Engineer",
   education: "B.Tech CSE",
   location: "Kerala, India",
-  current_role: "AI Developer Intern @ DifferentByte Technologies",
+  current_role: "AI Developer",
   interests: [
     "AI Agents",
     "MCP (Model Context Protocol)",
     "LangGraph",
     "Multimodal RAG",
     "Computer Vision",
-    "Agentic Workflows"
+    "Agentic Workflows",
+    "Full Stack"
   ],
   motto: "Building intelligent systems that solve real-world problems",
-  currently_learning: ["Advanced RAG", "Agent-to-Agent Communication", "Fine-Tuning LLMs"],
-  fun_fact: "I've solved 894+ LeetCode problems!"
+  currently_learning: ["AI/ML", "Agents", "LLMs"],
+  fun_fact: "I've solved 700+ LeetCode problems!"
 };
 ```
 
@@ -43,7 +44,7 @@ const manu = {
 
 ## Experience Timeline
 
-<table>
+<table width="100%">
 <tr>
 <td width="30%">
 <img src="https://img.shields.io/badge/2026-Present-000000?style=for-the-badge&logoColor=white" alt="2026-Present"/>
@@ -95,7 +96,7 @@ const manu = {
 ### Freelance Full Stack Developer
 **Independent**
 - Built 10+ production applications
-- Specialized in MERN/PERN stack development
+- Specialized in FULL STACK stack development
 - Integrated payment gateways and cloud deployments
 
 </td>
