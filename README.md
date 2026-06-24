@@ -91,14 +91,14 @@ const manu = {
 
 ### AI & Generative AI
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
+<img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge" alt="AutoGen"/>
 <img src="https://img.shields.io/badge/AGNO-000000?style=for-the-badge&logoColor=white" alt="Agno"/>
-<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge" alt="Gemini"/>
 <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=white" alt="Groq"/>
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP"/>
 <img src="https://img.shields.io/badge/A2A-000000?style=for-the-badge" />
