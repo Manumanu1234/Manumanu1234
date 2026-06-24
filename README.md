@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=180&section=header&text=Manu%20Madhu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20GenAI%20Developer%20|%20Full%20Stack%20Developer&descSize=16&descAlignY=51"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+Engineer+%F0%9F%A4%96;GenAI+Developer+%E2%9C%A8;AI+Agent+Builder+%F0%9F%9A%80;MCP+Enthusiast+%F0%9F%94%97;Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+Engineer;GenAI+Developer;AI+Agent+Builder;MCP+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 
 <!-- Badges -->
 <p>
@@ -17,40 +17,40 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```typescript
 const manu = {
   role: "AI Engineer",
   education: "B.Tech CSE",
-  location: "Kerala, India 🇮🇳",
+  location: "Kerala, India",
   current_role: "AI Developer Intern @ DifferentByte Technologies",
   interests: [
-    "AI Agents 🤖",
-    "MCP (Model Context Protocol) 🔗",
-    "LangGraph 📊",
-    "Multimodal RAG 🖼️",
-    "Computer Vision 👁️",
-    "Agentic Workflows ⚡"
+    "AI Agents",
+    "MCP (Model Context Protocol)",
+    "LangGraph",
+    "Multimodal RAG",
+    "Computer Vision",
+    "Agentic Workflows"
   ],
   motto: "Building intelligent systems that solve real-world problems",
   currently_learning: ["Advanced RAG", "Agent-to-Agent Communication", "Fine-Tuning LLMs"],
-  fun_fact: "I've solved 894+ LeetCode problems! 🎯"
+  fun_fact: "I've solved 894+ LeetCode problems!"
 };
 ```
 
 ---
 
-## 💼 Experience Timeline
+## Experience Timeline
 
 <table>
 <tr>
 <td width="30%">
-<img src="https://img.shields.io/badge/2025-Present-000000?style=for-the-badge&logoColor=white" alt="2025-Present"/>
+<img src="https://img.shields.io/badge/2026-Present-000000?style=for-the-badge&logoColor=white" alt="2026-Present"/>
 </td>
 <td width="70%">
 
-### 🚀 AI Product Developer
+### AI Product Developer
 **CodeScape**
 - Building AI products and solutions
 - Developing Generative AI applications
@@ -64,7 +64,7 @@ const manu = {
 </td>
 <td width="70%">
 
-### 🔬 Research Lead
+### Research Lead
 **Core.AI Community**
 - Leading AI research initiatives
 - Mentoring developers in AI/ML technologies
@@ -74,11 +74,11 @@ const manu = {
 </tr>
 <tr>
 <td width="30%">
-<img src="https://img.shields.io/badge/2024-2%20Months-000000?style=for-the-badge&logoColor=white" alt="2024-2 Months"/>
+<img src="https://img.shields.io/badge/2025-2%20Months-000000?style=for-the-badge&logoColor=white" alt="2025-2 Months"/>
 </td>
 <td width="70%">
 
-### 🚀 AI Developer Intern
+### AI Developer Intern
 **DifferentByte Technologies**
 - Built production-grade Generative AI solutions
 - Developed AI Agents with MCP integration
@@ -92,7 +92,7 @@ const manu = {
 </td>
 <td width="70%">
 
-### 💻 Freelance Full Stack Developer
+### Freelance Full Stack Developer
 **Independent**
 - Built 10+ production applications
 - Specialized in MERN/PERN stack development
@@ -104,9 +104,9 @@ const manu = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🤖 AI & Generative AI
+### AI & Generative AI
 <p>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
@@ -125,7 +125,7 @@ const manu = {
 <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
@@ -134,7 +134,7 @@ const manu = {
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -142,7 +142,7 @@ const manu = {
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -150,7 +150,7 @@ const manu = {
 <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
-### 🗄️ Databases & Vector Stores
+### Databases & Vector Stores
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -160,7 +160,7 @@ const manu = {
 <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
 <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -175,34 +175,34 @@ const manu = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚀 DriveGenAI
+### DriveGenAI
 **Generative AI Powered Google Drive Management Platform**
 
-- 🔗 MCP Server integration for Drive operations
-- 🤖 AI Agents using LangGraph workflows
-- 📧 Gmail & Telegram bot integration
-- ⚡ FastAPI backend with async operations
-- 🎯 Natural language file management
+- MCP Server integration for Drive operations
+- AI Agents using LangGraph workflows
+- Gmail & Telegram bot integration
+- FastAPI backend with async operations
+- Natural language file management
 
 **Tech:** LangGraph • MCP • FastAPI • Gemini • Gmail API
 
 </td>
 <td width="50%">
 
-### 🧠 VisionRAG
+### VisionRAG
 **Multimodal RAG System for Image-to-Profile Retrieval**
 
-- 🖼️ CLIP embeddings for image understanding
-- 🔍 FAISS vector similarity search
-- 🤖 Gemini for intelligent responses
-- 📊 LangGraph state management
-- 🗄️ PostgreSQL for metadata storage
+- CLIP embeddings for image understanding
+- FAISS vector similarity search
+- Gemini for intelligent responses
+- LangGraph state management
+- PostgreSQL for metadata storage
 
 **Tech:** CLIP • FAISS • Gemini • LangGraph • PostgreSQL
 
@@ -211,28 +211,28 @@ const manu = {
 <tr>
 <td width="50%">
 
-### 🏦 FinGen AI
+### FinGen AI
 **Natural Language Banking Assistant**
 
-- 💸 AI-powered money transfers
-- 🔐 Secure transaction workflows
-- 🤖 Multi-agent orchestration
-- 📊 Financial analytics dashboard
-- 🎯 Intent classification & entity extraction
+- AI-powered money transfers
+- Secure transaction workflows
+- Multi-agent orchestration
+- Financial analytics dashboard
+- Intent classification & entity extraction
 
 **Tech:** LangChain • CrewAI • FastAPI • PostgreSQL
 
 </td>
 <td width="50%">
 
-### 🛒 ShoeXShop
+### ShoeXShop
 **Production E-Commerce Platform**
 
-- 💳 Razorpay & PayPal integration
-- ☁️ AWS EC2 deployment with Nginx
-- 🔐 JWT authentication & authorization
-- 📦 Order management & tracking
-- 🛒 Advanced cart & wishlist features
+- Razorpay & PayPal integration
+- AWS EC2 deployment with Nginx
+- JWT authentication & authorization
+- Order management & tracking
+- Advanced cart & wishlist features
 
 **Tech:** MERN • AWS EC2 • Nginx • Razorpay • PayPal
 
@@ -241,28 +241,28 @@ const manu = {
 <tr>
 <td width="50%">
 
-### 🎵 Spotify Scraper
+### Spotify Scraper
 **Collaborative Music Platform**
 
-- 🎧 Spotify API integration
-- 👥 Real-time listening rooms
-- 📋 Collaborative playlist creation
-- 🔍 Advanced music search
-- 💾 Playlist sharing & discovery
+- Spotify API integration
+- Real-time listening rooms
+- Collaborative playlist creation
+- Advanced music search
+- Playlist sharing & discovery
 
 **Tech:** MERN • Spotify API • Socket.IO • Redis
 
 </td>
 <td width="50%">
 
-### 💬 ChatVerse
+### ChatVerse
 **Real-Time Chat Application**
 
-- 💬 Real-time messaging with Socket.IO
-- 📹 WebRTC video calling
-- 👥 Group chats & channels
-- 🔔 Push notifications
-- 🎨 Modern UI with React
+- Real-time messaging with Socket.IO
+- WebRTC video calling
+- Group chats & channels
+- Push notifications
+- Modern UI with React
 
 **Tech:** MERN • Socket.IO • WebRTC • Redis
 
@@ -272,7 +272,7 @@ const manu = {
 
 ---
 
-## 🔬 AI Research Interests
+## AI Research Interests
 
 <div align="center">
 <table>
@@ -325,7 +325,7 @@ const manu = {
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -370,7 +370,7 @@ const manu = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -384,7 +384,7 @@ const manu = {
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -404,8 +404,8 @@ const manu = {
 
 <div align="center">
 
-### 💡 "Building intelligent systems that solve real-world problems"
+### "Building intelligent systems that solve real-world problems"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=100&section=footer"/>
 
 </div>
