@@ -97,7 +97,7 @@ const manu = {
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="50" alt="TensorFlow"/>
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="50" alt="PyTorch"/>
 
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white" alt="LangChain"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsC3qMNuTLruhEs_nEmnZZuQqZE2YvrZjd2LjeZf5ag&s=10" height="50" alt="LangChain"/>
   
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white" alt="LangGraph"/>
 
