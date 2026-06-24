@@ -44,7 +44,7 @@ const manu = {
 
 ## Experience Timeline
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/2026-Present-000000?style=for-the-badge&logoColor=white" alt="2026-Present"/>
 
