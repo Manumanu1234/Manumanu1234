@@ -92,13 +92,13 @@ const manu = {
 ### AI & Generative AI
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI Tools"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/>
 <img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logoColor=white" alt="AutoGen"/>
 <img src="https://img.shields.io/badge/Agno-000000?style=for-the-badge&logoColor=white" alt="Agno"/>
-<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP"/>
 <img src="https://img.shields.io/badge/A2A-000000?style=for-the-badge&logoColor=white" alt="A2A"/>
 <img src="https://img.shields.io/badge/ACP-000000?style=for-the-badge&logoColor=white" alt="ACP"/>
