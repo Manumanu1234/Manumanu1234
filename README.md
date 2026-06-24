@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Manu Madhu
 
-<!--
-**Manumanu1234/Manumanu1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | GenAI Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Developer Intern @ DifferentByte
+- Research Lead @ Core.AI
+- 894+ LeetCode Problems Solved
+- Building AI Agents, RAG Systems & MCP Applications
+
+## Featured Projects
+
+- DriveGen
+- VisionRAG
+- FinGen AI
+- ShoeXShop
+- LabDocGen
+- Sava Sarathi
+
+## Tech Stack
+
+Python • FastAPI • LangGraph • React • Next.js
+MongoDB • PostgreSQL • AWS • Docker
