@@ -204,7 +204,7 @@ const manu = {
 - Financial analytics dashboard
 - Intent classification & entity extraction
 
-**Tech:** LangChain • CrewAI • FastAPI • PostgreSQL
+**Tech:** LangChain • Langgraph • FastAPI • PostgreSQL
 
 </td>
 <td width="50%">
@@ -218,7 +218,7 @@ const manu = {
 - Order management & tracking
 - Advanced cart & wishlist features
 
-**Tech:** MERN • AWS EC2 • Nginx • Razorpay • PayPal
+**Tech:** Node JS & HBS • AWS EC2 • Nginx • Razorpay • PayPal
 
 </td>
 </tr>
@@ -234,7 +234,7 @@ const manu = {
 - Advanced music search
 - Playlist sharing & discovery
 
-**Tech:** MERN • Spotify API • Socket.IO • Redis
+**Tech:** React • Spotify API • DJANGO • Redis
 
 </td>
 <td width="50%">
@@ -248,7 +248,7 @@ const manu = {
 - Push notifications
 - Modern UI with React
 
-**Tech:** MERN • Socket.IO • WebRTC • Redis
+**Tech:** MERN • Socket.IO • WebRTC • SQL
 
 </td>
 </tr>
