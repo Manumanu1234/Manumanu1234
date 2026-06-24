@@ -44,9 +44,11 @@ const manu = {
 
 ## Experience Timeline
 
-<div width="100%">
+<div align="center">
 
-### 2026-Present  —  AI Product Developer
+<img src="https://img.shields.io/badge/2026-Present-000000?style=for-the-badge&logoColor=white" alt="2026-Present"/>
+
+### AI Product Developer
 **CodeScape**
 - Building AI products and solutions
 - Developing Generative AI applications
@@ -54,7 +56,9 @@ const manu = {
 
 ---
 
-### 2024-Present  —  Research Lead
+<img src="https://img.shields.io/badge/2024-Present-000000?style=for-the-badge&logoColor=white" alt="2024-Present"/>
+
+### Research Lead
 **Core.AI Community**
 - Leading AI research initiatives
 - Mentoring developers in AI/ML technologies
@@ -62,7 +66,9 @@ const manu = {
 
 ---
 
-### 2025 (2 Months)  —  AI Developer Intern
+<img src="https://img.shields.io/badge/2025-2%20Months-000000?style=for-the-badge&logoColor=white" alt="2025-2 Months"/>
+
+### AI Developer Intern
 **DifferentByte Technologies**
 - Built production-grade Generative AI solutions
 - Developed AI Agents with MCP integration
@@ -70,7 +76,9 @@ const manu = {
 
 ---
 
-### 2023-Present  —  Freelance Full Stack Developer
+<img src="https://img.shields.io/badge/2023-Present-000000?style=for-the-badge&logoColor=white" alt="2023-Present"/>
+
+### Freelance Full Stack Developer
 **Independent**
 - Built 10+ production applications
 - Specialized in FULL STACK stack development
