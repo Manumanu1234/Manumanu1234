@@ -318,34 +318,34 @@ const manu = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/700+-555555?style=for-the-badge&logo=leetcode&logoColor=white" height="60"/><br/>
+<img src="https://img.shields.io/badge/700+-000000?style=for-the-badge&logo=leetcode&logoColor=white" height="60"/><br/>
 <b>LeetCode Problems</b><br/>
 <sub>Solved across all difficulty levels</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/4+-888888?style=for-the-badge&logo=trophy&logoColor=white" height="60"/><br/>
+<img src="https://img.shields.io/badge/4+-000000?style=for-the-badge&logo=trophy&logoColor=white" height="60"/><br/>
 <b>Hackathon Wins</b><br/>
 <sub>National & college level</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Winner-666666?style=for-the-badge&logo=award&logoColor=white" height="60"/><br/>
+<img src="https://img.shields.io/badge/Winner-000000?style=for-the-badge&logo=award&logoColor=white" height="60"/><br/>
 <b>GenAI Quiz</b><br/>
 <sub>Generative AI Competition</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/10+-CCCCCC?style=for-the-badge&logo=rocket&logoColor=white" height="60"/><br/>
+<img src="https://img.shields.io/badge/10+-000000?style=for-the-badge&logo=rocket&logoColor=white" height="60"/><br/>
 <b>Production Apps</b><br/>
 <sub>Built & deployed successfully</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Intern-777777?style=for-the-badge&logo=briefcase&logoColor=white" height="60"/><br/>
+<img src="https://img.shields.io/badge/Intern-000000?style=for-the-badge&logo=briefcase&logoColor=white" height="60"/><br/>
 <b>AI Developer</b><br/>
 <sub>DifferentByte Technologies / CodeScape</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Research_Lead-999999?style=for-the-badge&logo=microscope&logoColor=white" height="60"/><br/>
+<img src="https://img.shields.io/badge/Research_Lead-000000?style=for-the-badge&logo=microscope&logoColor=white" height="60"/><br/>
 <b>Core.AI</b><br/>
 <sub>Community Leadership</sub>
 </td>
