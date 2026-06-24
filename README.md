@@ -257,7 +257,7 @@ const manu = {
 
 ---
 
-## AI Research Interests
+## AI Featured Areas
 
 <div align="center">
 <table>
