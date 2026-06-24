@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=180&section=header&text=Manu%20Madhu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20GenAI%20Developer%20|%20Full%20Stack%20Developer&descSize=16&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=24&height=180&section=header&text=Manu%20Madhu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20GenAI%20Developer%20|%20Full%20Stack%20Developer&descSize=16&descAlignY=51"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+Engineer;GenAI+Developer;AI+Agent+Builder;MCP+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 
 <!-- Badges -->
 <p>
@@ -392,6 +392,6 @@ const manu = {
 
 ### "Building intelligent systems that solve real-world problems"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=24&height=100&section=footer"/>
 
 </div>
