@@ -99,7 +99,7 @@ const manu = {
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsC3qMNuTLruhEs_nEmnZZuQqZE2YvrZjd2LjeZf5ag&s=10" height="50" alt="LangChain"/>
   
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white" alt="LangGraph"/>
+  <img src="https://www.simplilearn.com/ice9/app/Introduction-to-LangGraph.jpg" height="50" alt="LangGraph"/>
 
   <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white" alt="CrewAI"/>
 
