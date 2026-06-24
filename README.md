@@ -91,69 +91,52 @@ const manu = {
 
 ### AI & Generative AI
 <p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI Tools"/>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=ai&logoColor=white" alt="CrewAI"/>
-<img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
-<img src="https://img.shields.io/badge/Agno-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Agno"/>
+<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logoColor=white" alt="AutoGen"/>
+<img src="https://img.shields.io/badge/Agno-000000?style=for-the-badge&logoColor=white" alt="Agno"/>
 <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Groq"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocol&logoColor=white" alt="MCP"/>
-<img src="https://img.shields.io/badge/A2A-000000?style=for-the-badge&logo=ai&logoColor=white" alt="A2A"/>
-<img src="https://img.shields.io/badge/ACP-000000?style=for-the-badge&logo=ai&logoColor=white" alt="ACP"/>
-<img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/ML-000000?style=for-the-badge&logo=ai&logoColor=white" alt="ML"/>
-<img src="https://img.shields.io/badge/DL-000000?style=for-the-badge&logo=ai&logoColor=white" alt="DL"/>
-<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=ai&logoColor=white" alt="NLP"/>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP"/>
+<img src="https://img.shields.io/badge/A2A-000000?style=for-the-badge&logoColor=white" alt="A2A"/>
+<img src="https://img.shields.io/badge/ACP-000000?style=for-the-badge&logoColor=white" alt="ACP"/>
+<img src="https://skillicons.dev/icons?i=huggingface&theme=dark" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/ML-000000?style=for-the-badge&logoColor=white" alt="ML"/>
+<img src="https://img.shields.io/badge/DL-000000?style=for-the-badge&logoColor=white" alt="DL"/>
+<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logoColor=white" alt="NLP"/>
 </p>
 
 ### Programming Languages
 <p>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=dark" alt="Languages"/>
 </p>
 
 ### Frontend Development
 <p>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend"/>
 </p>
 
 ### Backend Development
 <p>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django&theme=dark" alt="Backend"/>
 </p>
 
 ### Databases & Vector Stores
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-<img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark" alt="Databases"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=white" alt="FAISS"/>
 </p>
 
 ### Cloud & DevOps
 <p>
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,kubernetes&theme=dark" alt="DevOps"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-<img src="https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
-<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Celery-000000?style=for-the-badge&logoColor=white" alt="Celery"/>
 </p>
 
 ---
