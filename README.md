@@ -101,25 +101,25 @@ const manu = {
   
   <img src="https://www.simplilearn.com/ice9/app/Introduction-to-LangGraph.jpg" height="50" alt="LangGraph"/>
 
-  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white" alt="CrewAI"/>
+  <img src="https://images.seeklogo.com/logo-png/61/2/crew-ai-logo-png_seeklogo-619843.png" height="50" alt="CrewAI"/>
 
-  <img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
+  <img src="https://microsoft.github.io/autogen/stable/_static/favicon-512x512.png" height="50" alt="AutoGen"/>
 
-  <img src="https://img.shields.io/badge/AGNO-000000?style=for-the-badge&logoColor=white" alt="Agno"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUKRvuU6Puylzw0kixKLf-UkUoJvMvJ1VsPWOdWrnigmBGDtsU_siUVBZt&s=10" height="50" alt="Agno"/>
 
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvH1y5H8cFr_7VPNWPNXAX_qGKwg6XzIPpIf3ymZMTZxw4lRIp-iUFck&s=10" height="50" alt="Gemini"/>
 
-  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=white" alt="Groq"/>
+  <img src="https://cdn.sanity.io/images/chol0sk5/production/ce0b2266373b3c9722b0bccb9a98441c26c89696-1200x630.png" height="50" alt="Groq"/>
 
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="MCP"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Model_Context_Protocol_logo.png" height="50" alt="MCP"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/A2A-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ACP-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DL-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpi5Yt531gQFyWK_fUQw5Oo7W5wwlreif6CTr_uXhhzFJ7_k3oeZSmIKo&s=10" height="50" alt="A2A" />
+  <img src="https://resources.jetbrains.com/storage/products/acp/video/ACP_Video.png" height="50" alt="ACP" />
+  <img src="https://thumbs.dreamstime.com/b/machine-learning-icon-two-color-design-red-black-style-elements-icons-collection-creative-web-apps-software-print-144659464.jpg" height="50" alt="ML" />
+  <img src="https://png.pngtree.com/png-vector/20221109/ourmid/pngtree-monochrome-deep-learning-icon-for-web-design-and-infographics-vector-png-image_40583668.jpg" height="50" alt="DL" />
+  <img src="https://cdn-icons-png.flaticon.com/512/9831/9831371.png" height="50" alt="NLP" />
 </p>
 
 </div>
