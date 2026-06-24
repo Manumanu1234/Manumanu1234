@@ -46,10 +46,8 @@ const manu = {
 
 <table width="100%">
 <tr>
-<td width="30%">
+<td width="100%">
 <img src="https://img.shields.io/badge/2026-Present-000000?style=for-the-badge&logoColor=white" alt="2026-Present"/>
-</td>
-<td width="70%">
 
 ### AI Product Developer
 **CodeScape**
@@ -60,10 +58,8 @@ const manu = {
 </td>
 </tr>
 <tr>
-<td width="30%">
+<td width="100%">
 <img src="https://img.shields.io/badge/2024-Present-000000?style=for-the-badge&logoColor=white" alt="2024-Present"/>
-</td>
-<td width="70%">
 
 ### Research Lead
 **Core.AI Community**
@@ -74,10 +70,8 @@ const manu = {
 </td>
 </tr>
 <tr>
-<td width="30%">
+<td width="100%">
 <img src="https://img.shields.io/badge/2025-2%20Months-000000?style=for-the-badge&logoColor=white" alt="2025-2 Months"/>
-</td>
-<td width="70%">
 
 ### AI Developer Intern
 **DifferentByte Technologies**
@@ -88,10 +82,8 @@ const manu = {
 </td>
 </tr>
 <tr>
-<td width="30%">
+<td width="100%">
 <img src="https://img.shields.io/badge/2023-Present-000000?style=for-the-badge&logoColor=white" alt="2023-Present"/>
-</td>
-<td width="70%">
 
 ### Freelance Full Stack Developer
 **Independent**
@@ -333,7 +325,7 @@ const manu = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/894+-555555?style=for-the-badge&logo=leetcode&logoColor=white" height="60"/><br/>
+<img src="https://img.shields.io/badge/700+-555555?style=for-the-badge&logo=leetcode&logoColor=white" height="60"/><br/>
 <b>LeetCode Problems</b><br/>
 <sub>Solved across all difficulty levels</sub>
 </td>
@@ -357,7 +349,7 @@ const manu = {
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Intern-777777?style=for-the-badge&logo=briefcase&logoColor=white" height="60"/><br/>
 <b>AI Developer</b><br/>
-<sub>DifferentByte Technologies</sub>
+<sub>DifferentByte Technologies / CodeScape</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Research_Lead-999999?style=for-the-badge&logo=microscope&logoColor=white" height="60"/><br/>
