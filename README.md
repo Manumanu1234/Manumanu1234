@@ -4,9 +4,9 @@ AI Engineer | GenAI Developer | Full Stack Developer
 
 ## About Me
 
-- AI Developer Intern @ DifferentByte
+- AI Developer 
 - Research Lead @ Core.AI
-- 894+ LeetCode Problems Solved
+- 600+ LeetCode Problems Solved
 - Building AI Agents, RAG Systems & MCP Applications
 
 ## Featured Projects
