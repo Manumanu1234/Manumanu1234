@@ -92,7 +92,7 @@ const manu = {
 ### AI & Generative AI
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI Tools"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="48" height="48" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/>
 <img src="https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logoColor=white" alt="AutoGen"/>
