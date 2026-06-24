@@ -44,56 +44,39 @@ const manu = {
 
 ## Experience Timeline
 
-<table width="100%">
-<tr>
-<td width="100%">
-<img src="https://img.shields.io/badge/2026-Present-000000?style=for-the-badge&logoColor=white" alt="2026-Present"/>
+<div width="100%">
 
-### AI Product Developer
+### 2026-Present  —  AI Product Developer
 **CodeScape**
 - Building AI products and solutions
 - Developing Generative AI applications
 - Working on AI agent systems
 
-</td>
-</tr>
-<tr>
-<td width="100%">
-<img src="https://img.shields.io/badge/2024-Present-000000?style=for-the-badge&logoColor=white" alt="2024-Present"/>
+---
 
-### Research Lead
+### 2024-Present  —  Research Lead
 **Core.AI Community**
 - Leading AI research initiatives
 - Mentoring developers in AI/ML technologies
 - Organizing workshops on Generative AI
 
-</td>
-</tr>
-<tr>
-<td width="100%">
-<img src="https://img.shields.io/badge/2025-2%20Months-000000?style=for-the-badge&logoColor=white" alt="2025-2 Months"/>
+---
 
-### AI Developer Intern
+### 2025 (2 Months)  —  AI Developer Intern
 **DifferentByte Technologies**
 - Built production-grade Generative AI solutions
 - Developed AI Agents with MCP integration
 - Implemented RAG systems and agentic workflows
 
-</td>
-</tr>
-<tr>
-<td width="100%">
-<img src="https://img.shields.io/badge/2023-Present-000000?style=for-the-badge&logoColor=white" alt="2023-Present"/>
+---
 
-### Freelance Full Stack Developer
+### 2023-Present  —  Freelance Full Stack Developer
 **Independent**
 - Built 10+ production applications
 - Specialized in FULL STACK stack development
 - Integrated payment gateways and cloud deployments
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -170,6 +153,7 @@ const manu = {
 
 ## Featured Projects
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -262,6 +246,7 @@ const manu = {
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
