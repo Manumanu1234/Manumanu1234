@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=180&section=header&text=Manu%20Madhu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20GenAI%20Developer%20|%20Full%20Stack%20Developer&descSize=16&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=180&section=header&text=Manu%20Madhu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20GenAI%20Developer%20|%20Full%20Stack%20Developer&descSize=16&descAlignY=51"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+Engineer+%F0%9F%A4%96;GenAI+Developer+%E2%9C%A8;AI+Agent+Builder+%F0%9F%9A%80;MCP+Enthusiast+%F0%9F%94%97;Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI+Engineer+%F0%9F%A4%96;GenAI+Developer+%E2%9C%A8;AI+Agent+Builder+%F0%9F%9A%80;MCP+Enthusiast+%F0%9F%94%97;Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 
 <!-- Badges -->
 <p>
@@ -46,15 +46,15 @@ const manu = {
 <table>
 <tr>
 <td width="30%">
-<img src="https://img.shields.io/badge/2024-Present-000000?style=for-the-badge&logoColor=white" alt="2024-Present"/>
+<img src="https://img.shields.io/badge/2025-Present-000000?style=for-the-badge&logoColor=white" alt="2025-Present"/>
 </td>
 <td width="70%">
 
-### 🚀 AI Developer Intern
-**DifferentByte Technologies**
-- Building production-grade Generative AI solutions
-- Developing AI Agents with MCP integration
-- Implementing RAG systems and agentic workflows
+### 🚀 AI Product Developer
+**CodeScape**
+- Building AI products and solutions
+- Developing Generative AI applications
+- Working on AI agent systems
 
 </td>
 </tr>
@@ -74,7 +74,21 @@ const manu = {
 </tr>
 <tr>
 <td width="30%">
-<img src="https://img.shields.io/badge/2023-2024-000000?style=for-the-badge&logoColor=white" alt="2023-2024"/>
+<img src="https://img.shields.io/badge/2024-2%20Months-000000?style=for-the-badge&logoColor=white" alt="2024-2 Months"/>
+</td>
+<td width="70%">
+
+### 🚀 AI Developer Intern
+**DifferentByte Technologies**
+- Built production-grade Generative AI solutions
+- Developed AI Agents with MCP integration
+- Implemented RAG systems and agentic workflows
+
+</td>
+</tr>
+<tr>
+<td width="30%">
+<img src="https://img.shields.io/badge/2023-Present-000000?style=for-the-badge&logoColor=white" alt="2023-Present"/>
 </td>
 <td width="70%">
 
@@ -104,9 +118,11 @@ const manu = {
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocol&logoColor=white" alt="MCP"/>
 <img src="https://img.shields.io/badge/A2A-000000?style=for-the-badge&logo=ai&logoColor=white" alt="A2A"/>
 <img src="https://img.shields.io/badge/ACP-000000?style=for-the-badge&logo=ai&logoColor=white" alt="ACP"/>
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
 <img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/ML-000000?style=for-the-badge&logo=ai&logoColor=white" alt="ML"/>
+<img src="https://img.shields.io/badge/DL-000000?style=for-the-badge&logo=ai&logoColor=white" alt="DL"/>
+<img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=ai&logoColor=white" alt="NLP"/>
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
 ### 💻 Programming Languages
@@ -124,7 +140,6 @@ const manu = {
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-<img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </p>
 
 ### ⚙️ Backend Development
@@ -133,7 +148,6 @@ const manu = {
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
 ### 🗄️ Databases & Vector Stores
@@ -153,6 +167,10 @@ const manu = {
 <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+<img src="https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
 ---
@@ -265,7 +283,7 @@ const manu = {
 <sub>Building autonomous agents with reasoning capabilities</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/MCP-FFFFFF?style=for-the-badge&logo=protocol&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocol&logoColor=white"/><br/>
 <b>MCP Architecture</b><br/>
 <sub>Model Context Protocol implementations</sub>
 </td>
@@ -275,7 +293,7 @@ const manu = {
 <sub>Multi-agent communication systems</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Multimodal_AI-FFFFFF?style=for-the-badge&logo=ai&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Multimodal_AI-000000?style=for-the-badge&logo=ai&logoColor=white"/><br/>
 <b>Multimodal AI</b><br/>
 <sub>Vision-Language models & applications</sub>
 </td>
@@ -287,7 +305,7 @@ const manu = {
 <sub>Image understanding & processing</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/RAG-FFFFFF?style=for-the-badge&logo=database&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=database&logoColor=white"/><br/>
 <b>RAG Architecture</b><br/>
 <sub>Advanced retrieval systems</sub>
 </td>
@@ -297,7 +315,7 @@ const manu = {
 <sub>Model adaptation & optimization</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Workflows-FFFFFF?style=for-the-badge&logo=workflow&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Workflows-000000?style=for-the-badge&logo=workflow&logoColor=white"/><br/>
 <b>Autonomous Workflows</b><br/>
 <sub>Intelligent process automation</sub>
 </td>
@@ -366,20 +384,6 @@ const manu = {
 
 ---
 
-## 💻 LeetCode Profile
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Manumanu1234)
-
-<img src="https://leetcard.jacoblin.cool/Manumanu1234?theme=dark&font=Ubuntu&ext=activity" alt="LeetCode Stats"/>
-
-**894+ Problems Solved** | **Data Structures & Algorithms Expert**
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -390,11 +394,8 @@ const manu = {
 <a href="https://www.linkedin.com/in/manu-madhu-086506281/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:manumadhu@example.com">
+<a href="mailto:manumanuvkm123@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://twitter.com/Manumanu1234">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 
 </div>
